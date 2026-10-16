@@ -1,0 +1,1 @@
+use proper pixeling in skin , do not break any pixel , need smooth skin
